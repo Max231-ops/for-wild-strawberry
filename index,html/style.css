@@ -1,0 +1,22 @@
+center h1{
+    color:aqua;
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color:aqua; text-align: center; font-size: 270%;
+}
+a.button{
+    
+    display: inline-block;
+    background-color:
+    aquamarine;
+    padding: 12px;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 2;
+    font-weight: 100;
+}
